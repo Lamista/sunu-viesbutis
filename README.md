@@ -1,2 +1,4 @@
 # sunu-viesbutis
-Project with https://bootstrapmade.com/ template
+Project from a https://bootstrapmade.com/ template
+
+#### lamista.github.io/sunu-viesbutis/
